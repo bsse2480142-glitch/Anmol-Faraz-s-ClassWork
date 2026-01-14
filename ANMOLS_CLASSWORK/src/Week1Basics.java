@@ -20,7 +20,7 @@ public class Week1Basics {
     }
 
     public static void runVariablesTask() {
-        String name = "Hamza";
+        String name = "Anmol";
         int rollNo = 12345;
         String department = "Computer Science";
         System.out.println("Name: " + name + " | Roll No: " + rollNo + " | Dept: " + department);
@@ -93,4 +93,5 @@ public class Week1Basics {
         System.out.println("\n--- Result ---");
         System.out.println("Total: " + total + " | Average: " + avg + " | Grade: " + grade);
     }
+
 }
